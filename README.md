@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I am Henrique Silva Xavier</h1>
 <h3 align="center">A programming's student from Brazil</h3>
 
-- 🌱 I am currently learning **OpenCV**
+- 🌱 I am currently learning **OpenCV** and **TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriqueSilvaXavier?tab=repositories](https://github.com/HenriqueSilvaXavier?tab=repositories)
 
