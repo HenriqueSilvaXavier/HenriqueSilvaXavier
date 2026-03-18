@@ -2,10 +2,6 @@
 
 ### An AI-focused full-stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HenriqueSilvaXavier&label=Profile views&color=0e75b6&style=flat" alt="HenriqueSilvaXavier" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HenriqueSilvaXavier" alt="HenriqueSilvaXavier" /></a> </p>
-
 - 🔭 I'm currently working on **bootcamp, a films CRUD spring boot app**
 
 - 🌱 I'm currently learning **Azure**
