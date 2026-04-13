@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **bootcamp, a films CRUD spring boot app**
 
-- 🌱 I'm currently learning **Azure**
+- 🌱 I'm currently learning **Kafka**
 
 - 👯 I'm looking to collaborate on **Websites with an emphasis on AI and Data Science**
 
