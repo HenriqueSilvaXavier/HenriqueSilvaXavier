@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="white-space: nowrap; overflow-x: auto;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40"/></a>
