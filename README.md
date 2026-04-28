@@ -68,8 +68,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,css,django,express,figma,flask,git,html,java,js,jest,laravel,mongodb,mysql,nodejs,numpy,opencv,pandas,php,postgres,postman,py,react,reactnative,sklearn,selenium,spring,sqlite,tailwind,tensorflow,ts)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueSilvaXavier&show_icons=true&locale=en&layout=compact" alt="HenriqueSilvaXavier" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueSilvaXavier&show_icons=true&locale=en" alt="HenriqueSilvaXavier" /></p>
