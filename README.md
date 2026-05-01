@@ -50,8 +50,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
-<a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="power-bi" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a> <a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="power-bi" width="40" height="40"/> </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6L3aRhMgDRFOA8N9nZOeLsWYwT-6K6-tKCcncGiIfZ4j5o0WxlaZe-bi&s=10" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
